@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Diagoona HTML CSS Template</title>
+    <title>Oakland, California corner vape \ vaping</title>
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400" rel="stylesheet" /> <!-- https://fonts.google.com/ -->
     <link href="css/bootstrap.min.css" rel="stylesheet" /> <!-- https://getbootstrap.com/ -->
     <link href="fontawesome/css/all.min.css" rel="stylesheet" /> <!-- https://fontawesome.com/ -->
@@ -27,8 +27,8 @@ https://templatemo.com/tm-550-diagoona
                     <div class="tm-site-header media">
                         <i class="fas fa-umbrella-beach fa-3x mt-1 tm-logo"></i>
                         <div class="media-body">
-                            <h1 class="tm-sitename text-uppercase">diagoona</h1>
-                            <p class="tm-slogon">new bootstrap template</p>
+                            <h1 class="tm-sitename text-uppercase">Vaping stuff</h1>
+                            <p class="tm-slogon">< From time to time /></p>
                         </div>        
                     </div>
                 </div>
@@ -44,7 +44,7 @@ https://templatemo.com/tm-550-diagoona
                                 <li class="nav-item active">
                                     <a class="nav-link tm-nav-link" href="#">Home <span class="sr-only">(current)</span></a>
                                 </li>
-                                <li class="nav-item">
+                                <!-- <li class="nav-item">
                                     <a class="nav-link tm-nav-link" href="about.html">About</a>
                                 </li>
                                 <li class="nav-item">
@@ -52,7 +52,7 @@ https://templatemo.com/tm-550-diagoona
                                 </li>                            
                                 <li class="nav-item">
                                     <a class="nav-link tm-nav-link" href="contact.html">Contact</a>
-                                </li>
+                                </li> -->
                             </ul>                            
                         </div>                        
                     </nav>
@@ -63,11 +63,12 @@ https://templatemo.com/tm-550-diagoona
                 <div class="tm-col-left"></div>
                 <main class="tm-col-right">
                     <section class="tm-content">
-                        <h2 class="mb-5 tm-content-title">Diagoona HTML Template</h2>
-                        <p class="mb-5">Diagoona is provided by TemplateMo website. You are allowed to use this template for your websites. You are NOT allowed to redistribute this template ZIP file for a download purpose on any template collection website.</p>
+                        <h2 class="mb-5 tm-content-title">Check from time to time for supplies (batteries)</h2>
+                        <p>2286 International Blvd. Oakland, CA 94606</p>
                         <hr class="mb-5">
-                        <p class="mb-5">Diagoona is Bootstrap v4.4.1 layout. This BG is 50% transparent. You can set the background images auto play settings (true or false in line number 33) in templatemo-script.js file in js folder.</p>                        
-                        <a href="about.html" class="btn btn-primary">Continue...</a>
+                        <img src="./img/vape-one.png">
+                        <p>$20 Pod System - Juul pod sold at 7 eleven.</p>
+                        <!-- <a href="about.html" class="btn btn-primary">Continue...</a> -->
                     </section>
                 </main>
             </div>
@@ -83,7 +84,7 @@ https://templatemo.com/tm-550-diagoona
             </div>        
             <div class="tm-col-right tm-col-footer">
                 <footer class="tm-site-footer text-right">
-                    <p class="mb-0">Copyright 2020 Diagoona Co. 
+                    <p class="mb-0">Copyright 2020 Oakland Corner Vapes. 
                     
                     | Design: <a href="https://templatemo.com" class="tm-text-link">TemplateMo</a></p>
                 </footer>
