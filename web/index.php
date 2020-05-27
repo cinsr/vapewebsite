@@ -66,7 +66,7 @@ https://templatemo.com/tm-550-diagoona
                         <h2 class="mb-5 tm-content-title">Check from time to time for supplies (batteries)</h2>
                         <p>2286 International Blvd. Oakland, CA 94606</p>
                         <hr class="mb-5">
-                        <img src="./img/vape-one.png">
+                        <img src="./img/vape-one.png" width="100%">
                         <p>$20 Pod System - Juul pod sold at 7 eleven.</p>
                         <!-- <a href="about.html" class="btn btn-primary">Continue...</a> -->
                     </section>
