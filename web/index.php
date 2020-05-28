@@ -28,7 +28,7 @@ https://templatemo.com/tm-550-diagoona
                         <i class="fas fa-umbrella-beach fa-3x mt-1 tm-logo"></i>
                         <div class="media-body">
                             <h1 class="tm-sitename text-uppercase">Vapes</h1>
-                            <p class="tm-slogon">< More coming soon. /></p>
+                            <p class="tm-slogon">< More coming soon /></p>
                         </div>        
                     </div>
                 </div>
