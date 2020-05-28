@@ -63,6 +63,7 @@ https://templatemo.com/tm-550-diagoona
                 <div class="tm-col-left"></div>
                 <main class="tm-col-right">
                     <section class="tm-content">
+                        <h2 class="mb-5 tm-content-title">From time to time – more supplies (batteries)</h2>
                         <p>2286 International Blvd. Oakland, CA 94606</p>
                         <hr class="mb-5">
                         <img src="./img/vape-one.png" width="100%">
