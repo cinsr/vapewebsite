@@ -27,8 +27,8 @@ https://templatemo.com/tm-550-diagoona
                     <div class="tm-site-header media">
                         <i class="fas fa-umbrella-beach fa-3x mt-1 tm-logo"></i>
                         <div class="media-body">
-                            <h1 class="tm-sitename text-uppercase">Vaping stuff</h1>
-                            <p class="tm-slogon">< From time to time /></p>
+                            <h1 class="tm-sitename text-uppercase">Vapes</h1>
+                            <p class="tm-slogon">< More coming soon. /></p>
                         </div>        
                     </div>
                 </div>
@@ -63,7 +63,6 @@ https://templatemo.com/tm-550-diagoona
                 <div class="tm-col-left"></div>
                 <main class="tm-col-right">
                     <section class="tm-content">
-                        <h2 class="mb-5 tm-content-title">Check from time to time for supplies (batteries)</h2>
                         <p>2286 International Blvd. Oakland, CA 94606</p>
                         <hr class="mb-5">
                         <img src="./img/vape-one.png" width="100%">
